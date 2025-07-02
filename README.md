@@ -397,37 +397,3 @@ res.set("Access-Control-Allow-Methods", "POST, OPTIONS");
 res.set("Access-Control-Allow-Headers", "Content-Type");
 ```
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- **Google Cloud Functions**: Serverless computing platform
-- **Gemini AI**: Advanced AI model for analysis
-- **Tailwind CSS**: Utility-first CSS framework
-- **YouTube Data API**: Video and comment data access
-- **Font Awesome**: Beautiful icons
-
-## 📞 Support
-
-If you encounter any issues or have questions:
-
-1. Check the [Troubleshooting](#troubleshooting) section
-2. Review the [TDD.md](TDD.md) for technical details
-3. Open an issue on GitHub
-4. Check Google Cloud Console logs for detailed error information
-
----
-
-**Happy Analyzing! 🎉**
-
-_Built with ❤️ using Google Cloud Functions and Gemini AI_
