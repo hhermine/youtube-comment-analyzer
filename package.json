@@ -1,0 +1,31 @@
+{
+  "name": "youtube-comment-analyzer",
+  "version": "1.0.0",
+  "description": "Google Cloud Function to analyze YouTube video comments using AI",
+  "main": "index.js",
+  "engines": {
+    "node": "20"
+  },
+  "scripts": {
+    "start": "functions-framework --target=analyzeComments",
+    "deploy": "./deploy.sh",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@google-cloud/aiplatform": "^4.0.0",
+    "@google/genai": "^1.8.0",
+    "googleapis": "^128.0.0"
+  },
+  "devDependencies": {
+    "@google-cloud/functions-framework": "^3.3.0"
+  },
+  "keywords": [
+    "youtube",
+    "comments",
+    "sentiment-analysis",
+    "ai",
+    "google-cloud-functions"
+  ],
+  "author": "YouTube Comment Analyzer Team",
+  "license": "MIT"
+}
