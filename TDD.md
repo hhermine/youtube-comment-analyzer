@@ -2,11 +2,6 @@
 
 ## YouTube Comment Analyzer
 
-**Document Version:** 1.0  
-**Date:** July 1, 2025  
-**Author:** Development Team
-
----
 
 ## 1. Executive Summary
 
